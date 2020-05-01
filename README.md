@@ -1,13 +1,6 @@
 # Airbnb price prediction
 Airbnb is an online marketplace that connects people who want to rent out their homes with people who are looking for accommodations in that locale.
 
-### Table of content
-1. Assumptions for Analysis
-2. Exploring the Dataset
-3. Cleaning the Data
-4. Data Analysis
-5. Prediction
-
 ### Files
 1. airbnb-price-prediction.ipynb is a Jupyter Notebook which contains the code for analysis and prediction.
 2. airbnb-price-prediction.py is a Python the python version of the above file.
